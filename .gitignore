@@ -1,6 +1,12 @@
+# Isso é um comentario, há!
+
+# Ignorando arquivos por extensão 
 *.doc
 *.docx
 *.zip
 
-
+# Ignorando diretorio (ou pastas) por nome
 testes/
+
+# ignorando arquivos especificos
+Yoshi.txt
